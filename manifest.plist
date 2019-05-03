@@ -12,7 +12,7 @@
                    <key>kind</key>
                    <string>software-package</string>
                    <key>url</key>
-                   <string>lifelove.ipa</string>
+                   <string>http://m.558168.com.tw/lifelove.ipa</string>
                </dict>
                <dict>
                    <key>kind</key>
@@ -20,7 +20,7 @@
                    <key>needs-shine</key>
                    <true/>
                    <key>url</key>
-                   <string>lifelove.png</string>
+                   <string>http://m.558168.com.tw/images/lifelove.png</string>
                </dict>
                <dict>
                    <key>kind</key>
@@ -28,7 +28,7 @@
                    <key>needs-shine</key>
                    <true/>
                    <key>url</key>
-                   <string>lifelove.png</string>
+                   <string>http://m.558168.com.tw/images/lifelove.png</string>
                </dict>
            </array><key>metadata</key>
            <dict>
